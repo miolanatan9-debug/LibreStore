@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LibreStore</string>
+    <string name="categorias">Categorias</string>
+    <string name="buscar">Buscar</string>
+    <string name="instalar">Instalar</string>
+    <string name="baixando">Baixando...</string>
+    <string name="instalando">Instalando...</string>
+    <string name="erro">Erro ao baixar</string>
+    <string name="voltar">Voltar</string>
+    <string name="carregando">Carregando...</string>
+    <string name="sem_resultados">Nenhum resultado encontrado</string>
+    <string name="versao">Versao: %s</string>
+    <string name="tamanho">Tamanho: %s</string>
+</resources>
